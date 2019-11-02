@@ -5,6 +5,8 @@ SparkFun APDS9960 RGB and Gesture Sensor Arduino Library
 
 [*Avago APDS-9960 Breakout Board (SEN-12787)*](https://www.sparkfun.com/products/12787)
 
+[*APDS-9960 RGB紅外手勢傳感感應運動方向識別模塊*](https://bit.ly/2NxUsvt)
+
 Getting Started
 ---------------
 
